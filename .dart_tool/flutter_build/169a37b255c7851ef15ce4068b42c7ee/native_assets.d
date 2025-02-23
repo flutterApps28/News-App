@@ -1,0 +1,1 @@
+ D:\\project\\bloc_State\\news_apk\\.dart_tool\\flutter_build\\169a37b255c7851ef15ce4068b42c7ee\\native_assets.yaml: 
